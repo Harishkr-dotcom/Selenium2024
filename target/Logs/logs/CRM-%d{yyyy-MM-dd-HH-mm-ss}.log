@@ -1,0 +1,464 @@
+19:50:32.497 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+19:50:45.981 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+19:50:45.981 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:50:51.950 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+19:50:51.971 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:51:02.181 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+19:51:02.253 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+19:51:05.329 [main] INFO  com.qa.Testcases.BaseTest - Flushimg the results into Extent report
+20:05:14.121 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:05:27.450 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:05:27.451 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:05:34.779 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:05:34.816 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:05:44.995 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:05:45.015 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:05:45.298 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:05:46.684 [main] INFO  com.qa.Testcases.BaseTest - Flushimg the results into Extent report
+20:11:10.303 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+20:11:11.247 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:11:11.253 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:11:26.391 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:11:26.392 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:11:31.642 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:11:31.661 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:11:41.788 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:11:41.806 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:11:42.170 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:11:42.171 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:11:43.493 [main] INFO  com.qa.Testcases.BaseTest - Flushimg the results into Extent report
+20:25:43.637 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+20:25:44.688 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:25:44.690 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:25:59.919 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:25:59.920 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:07.126 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:26:07.154 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:07.855 [main] INFO  com.qa.Pages.BasePage - Entering harishkr755@gmail.com to [[ChromeDriver: chrome on windows (846e57c1a2d09387fc8c66eaf18a2274)] -> xpath: //input[@placeholder='Email']]
+20:26:08.167 [main] INFO  com.qa.Pages.BasePage - Entering Harish@123 to [[ChromeDriver: chrome on windows (846e57c1a2d09387fc8c66eaf18a2274)] -> xpath: //input[@placeholder='Password']]
+20:26:08.367 [main] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (846e57c1a2d09387fc8c66eaf18a2274)] -> xpath: //div[@class='ui fluid large blue submit button']]
+20:26:08.370 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:08.383 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:26:08.396 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:26:08.397 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:26:09.482 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:26:09.483 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:26:21.410 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:26:21.410 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:26.633 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:26:26.637 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:26.639 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:26.654 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:26.757 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:26:26.758 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:26:26.758 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:26:27.347 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:26:27.347 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:26:38.609 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:26:38.610 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:43.638 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:26:43.641 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:43.899 [main] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (77c4954f5c68500e867995d6bf8b47c7)] -> xpath: //input[@placeholder='Email']]
+20:26:44.034 [main] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (77c4954f5c68500e867995d6bf8b47c7)] -> xpath: //input[@placeholder='Password']]
+20:26:44.144 [main] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (77c4954f5c68500e867995d6bf8b47c7)] -> xpath: //div[@class='ui fluid large blue submit button']]
+20:26:45.364 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:26:45.365 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:26:45.365 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:26:45.848 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:26:45.849 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:26:50.756 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:26:50.757 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:57.139 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:26:57.141 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:26:57.146 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:27:09.463 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+20:27:09.464 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:27:09.560 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:27:09.561 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:27:09.561 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:27:10.402 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:27:10.402 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:27:22.224 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:27:22.225 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:27:27.604 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:27:27.607 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:27:27.608 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:27:39.892 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+20:27:39.893 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:27:52.152 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Got an account? Log in here']'
+20:27:52.152 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:27:52.153 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:27:52.209 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:27:52.211 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:27:52.212 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:27:52.880 [main] INFO  com.qa.Testcases.BaseTest - Flushing the results into Extent report
+20:31:42.161 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+20:31:43.620 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:31:43.623 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:31:57.003 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:31:57.004 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:02.719 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:32:02.742 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:03.166 [main] INFO  com.qa.Pages.BasePage - Entering harishkr755@gmail.com to [[ChromeDriver: chrome on windows (38c3ee7cb21fdb496c7e7ffdcca76782)] -> xpath: //input[@placeholder='Email']]
+20:32:03.414 [main] INFO  com.qa.Pages.BasePage - Entering Harish@123 to [[ChromeDriver: chrome on windows (38c3ee7cb21fdb496c7e7ffdcca76782)] -> xpath: //input[@placeholder='Password']]
+20:32:03.558 [main] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (38c3ee7cb21fdb496c7e7ffdcca76782)] -> xpath: //div[@class='ui fluid large blue submit button']]
+20:32:03.561 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:03.573 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:32:03.583 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:32:03.583 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:32:04.362 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:32:04.362 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:32:16.148 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:32:16.149 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:22.630 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:32:22.637 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:22.643 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:22.693 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:22.870 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:32:22.878 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:32:22.879 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:32:23.924 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:32:23.925 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:32:35.942 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:32:35.943 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:42.026 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:32:42.029 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:42.313 [main] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (47d75ac5a6d19f9daa25513010602cbf)] -> xpath: //input[@placeholder='Email']]
+20:32:42.457 [main] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (47d75ac5a6d19f9daa25513010602cbf)] -> xpath: //input[@placeholder='Password']]
+20:32:42.574 [main] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (47d75ac5a6d19f9daa25513010602cbf)] -> xpath: //div[@class='ui fluid large blue submit button']]
+20:32:43.741 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:32:43.742 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:32:43.742 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:32:44.232 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:32:44.233 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:32:46.938 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:32:46.938 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:54.559 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:32:54.576 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:32:54.582 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:06.920 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+20:33:06.921 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:07.009 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:33:07.010 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:33:07.011 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:33:07.888 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+20:33:07.889 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+20:33:19.100 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+20:33:19.100 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:24.051 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+20:33:24.055 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:24.056 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:36.340 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+20:33:36.340 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:49.034 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Got an account? Log in here']'
+20:33:49.034 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:49.034 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:49.060 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+20:33:49.061 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+20:33:49.209 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+20:33:49.210 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+20:33:49.896 [main] INFO  com.qa.Testcases.BaseTest - Flushing the results into Extent report
+11:32:09.353 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+11:32:10.652 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+11:32:10.657 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+11:32:11.308 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+11:32:11.314 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+11:32:11.331 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+11:32:11.331 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+11:32:11.339 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+11:32:11.340 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+11:32:11.348 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+11:32:11.350 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+11:32:11.357 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+11:32:11.359 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+11:32:11.362 [main] INFO  com.qa.Testcases.BaseTest - Flushing the results into Extent report
+19:22:51.630 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+19:22:52.379 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+19:22:52.392 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+19:23:10.145 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+19:23:10.145 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:23:17.773 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+19:23:17.824 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:23:17.954 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:23:30.726 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+19:23:30.727 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:23:45.720 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Got an account? Log in here']'
+19:23:45.721 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:23:45.722 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:23:45.803 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+19:23:45.823 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:23:46.125 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+19:23:46.127 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+19:23:47.315 [main] INFO  com.qa.Testcases.BaseTest - Flushing the results into Extent report
+19:24:40.544 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+19:24:41.350 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+19:24:41.359 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+19:24:49.131 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+19:24:49.132 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:24:55.426 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+19:24:55.461 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:24:55.519 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:08.147 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+19:25:08.148 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:08.352 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+19:25:08.368 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+19:25:08.369 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+19:25:09.572 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+19:25:09.573 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+19:25:14.743 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+19:25:14.743 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:21.746 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+19:25:21.757 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:21.760 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:21.791 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:23.508 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+19:25:23.509 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+19:25:23.509 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+19:25:24.338 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+19:25:24.339 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+19:25:28.552 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+19:25:28.553 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:34.782 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+19:25:34.792 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:34.811 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:25:48.044 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+19:25:48.045 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:02.219 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Got an account? Log in here']'
+19:26:02.220 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:02.226 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:02.377 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+19:26:02.380 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:02.808 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+19:26:02.809 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+19:26:05.146 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+19:26:05.147 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+19:26:09.677 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+19:26:09.678 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:18.764 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+19:26:18.771 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:19.417 [main] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (1773cec1b1e6c0c37bf0a022aa063ca3)] -> xpath: //input[@placeholder='Email']]
+19:26:19.572 [main] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (1773cec1b1e6c0c37bf0a022aa063ca3)] -> xpath: //input[@placeholder='Password']]
+19:26:19.723 [main] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (1773cec1b1e6c0c37bf0a022aa063ca3)] -> xpath: //div[@class='ui fluid large blue submit button']]
+19:26:21.421 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+19:26:21.424 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+19:26:21.425 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+19:26:24.476 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+19:26:24.477 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+19:26:29.934 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+19:26:29.935 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:36.719 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+19:26:36.757 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:37.141 [main] INFO  com.qa.Pages.BasePage - Entering harishkr755@gmail.com to [[ChromeDriver: chrome on windows (129af40dbfac61efc4f2ff0af8da00c8)] -> xpath: //input[@placeholder='Email']]
+19:26:37.385 [main] INFO  com.qa.Pages.BasePage - Entering Harish@123 to [[ChromeDriver: chrome on windows (129af40dbfac61efc4f2ff0af8da00c8)] -> xpath: //input[@placeholder='Password']]
+19:26:37.542 [main] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (129af40dbfac61efc4f2ff0af8da00c8)] -> xpath: //div[@class='ui fluid large blue submit button']]
+19:26:37.546 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+19:26:37.552 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+19:26:37.555 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+19:26:37.556 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+19:26:38.817 [main] INFO  com.qa.Testcases.BaseTest - Flushing the results into Extent report
+13:42:12.345 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+13:42:12.765 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:42:12.765 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:42:12.765 [TestNG-test-Test-3] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:42:12.765 [TestNG-test-Test-4] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:42:12.769 [TestNG-test-Test-4] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:42:12.769 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:42:12.769 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:42:12.769 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:42:13.716 [TestNG-test-Test-5] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:42:13.718 [TestNG-test-Test-5] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:42:27.163 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:42:27.164 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:27.170 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:42:27.171 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:27.470 [TestNG-test-Test-5] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:42:27.470 [TestNG-test-Test-5] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:27.483 [TestNG-test-Test-4] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:42:27.483 [TestNG-test-Test-4] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:27.494 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:42:27.494 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:35.595 [TestNG-test-Test-2] INFO  com.qa.browser.DriverManager - Browser launched...!
+13:42:35.670 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:35.684 [TestNG-test-Test-3] INFO  com.qa.browser.DriverManager - Browser launched...!
+13:42:35.698 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:35.766 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:35.770 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:35.873 [TestNG-test-Test-4] INFO  com.qa.browser.DriverManager - Browser launched...!
+13:42:35.873 [TestNG-test-Test-5] INFO  com.qa.browser.DriverManager - Browser launched...!
+13:42:35.876 [TestNG-test-Test-4] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:35.887 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:35.899 [TestNG-test-Test-5] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:36.008 [TestNG-test-Test-1] INFO  com.qa.browser.DriverManager - Browser launched...!
+13:42:36.014 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:36.019 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:36.114 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+13:42:36.127 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+13:42:36.127 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+13:42:36.370 [TestNG-test-Test-5] INFO  com.qa.Pages.BasePage - Entering harishkr755@gmail.com to [[ChromeDriver: chrome on windows (4f8feb96b0d3313bc4d5b7f6a6fa3315)] -> xpath: //input[@placeholder='Email']]
+13:42:36.407 [TestNG-test-Test-4] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (69e09eda5b55948e6cae3508c4200921)] -> xpath: //input[@placeholder='Email']]
+13:42:36.574 [TestNG-test-Test-4] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (69e09eda5b55948e6cae3508c4200921)] -> xpath: //input[@placeholder='Password']]
+13:42:36.578 [TestNG-test-Test-5] INFO  com.qa.Pages.BasePage - Entering Harish@123 to [[ChromeDriver: chrome on windows (4f8feb96b0d3313bc4d5b7f6a6fa3315)] -> xpath: //input[@placeholder='Password']]
+13:42:36.735 [TestNG-test-Test-4] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (69e09eda5b55948e6cae3508c4200921)] -> xpath: //div[@class='ui fluid large blue submit button']]
+13:42:36.753 [TestNG-test-Test-5] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (4f8feb96b0d3313bc4d5b7f6a6fa3315)] -> xpath: //div[@class='ui fluid large blue submit button']]
+13:42:36.758 [TestNG-test-Test-5] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:42:36.765 [TestNG-test-Test-5] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+13:42:36.766 [TestNG-test-Test-5] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+13:42:36.766 [TestNG-test-Test-5] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+13:42:38.038 [TestNG-test-Test-4] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+13:42:38.039 [TestNG-test-Test-4] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+13:42:38.039 [TestNG-test-Test-4] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+13:43:08.085 [TestNG-test-Test-3] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+13:43:08.085 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:43:08.457 [TestNG-test-Test-1] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+13:43:08.458 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:43:08.551 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+13:43:08.552 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+13:43:08.552 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+13:43:39.920 [TestNG-test-Test-3] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Got an account? Log in here']'
+13:43:39.920 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:43:39.921 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:43:39.944 [TestNG-test-Test-3] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+13:43:39.947 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:43:40.233 [TestNG-test-Test-3] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+13:43:40.233 [TestNG-test-Test-3] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+13:43:40.770 [main] INFO  com.qa.Testcases.BaseTest - Flushing the results into Extent report
+13:59:03.218 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+13:59:03.565 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:59:03.569 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:59:05.942 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:59:05.942 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:12.649 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+13:59:12.665 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:12.686 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:45.040 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+13:59:45.381 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:59:45.381 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:59:45.384 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:59:45.384 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:59:48.713 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:59:48.713 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:59:48.714 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:48.714 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:55.297 [TestNG-test-Test-1] INFO  com.qa.browser.DriverManager - Browser launched...!
+13:59:55.315 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:55.352 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:55.396 [TestNG-test-Test-2] INFO  com.qa.browser.DriverManager - Browser launched...!
+13:59:55.399 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:55.400 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:55.415 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+13:59:56.655 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+13:59:56.666 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+13:59:56.667 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+13:59:57.071 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+13:59:57.071 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+13:59:58.617 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+13:59:58.618 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:05.266 [TestNG-test-Test-2] INFO  com.qa.browser.DriverManager - Browser launched...!
+14:00:05.269 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:05.270 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:27.597 [TestNG-test-Test-1] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+14:00:27.597 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:27.709 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:00:27.711 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:00:27.712 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:00:28.537 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+14:00:28.537 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+14:00:30.352 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+14:00:30.352 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:37.104 [TestNG-test-Test-1] INFO  com.qa.browser.DriverManager - Browser launched...!
+14:00:37.108 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:37.394 [TestNG-test-Test-1] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (9b8c4d8fd39c866627105d14a32d61bf)] -> xpath: //input[@placeholder='Email']]
+14:00:37.545 [TestNG-test-Test-1] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (9b8c4d8fd39c866627105d14a32d61bf)] -> xpath: //input[@placeholder='Password']]
+14:00:37.621 [TestNG-test-Test-2] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+14:00:37.622 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:37.698 [TestNG-test-Test-1] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (9b8c4d8fd39c866627105d14a32d61bf)] -> xpath: //div[@class='ui fluid large blue submit button']]
+14:00:38.987 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:00:38.988 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:00:38.989 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:00:40.184 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+14:00:40.185 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+14:00:41.916 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+14:00:41.917 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:48.647 [TestNG-test-Test-1] INFO  com.qa.browser.DriverManager - Browser launched...!
+14:00:48.653 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:48.902 [TestNG-test-Test-1] INFO  com.qa.Pages.BasePage - Entering harishkr755@gmail.com to [[ChromeDriver: chrome on windows (a76226c004acd2f9d70e488feb403979)] -> xpath: //input[@placeholder='Email']]
+14:00:49.067 [TestNG-test-Test-1] INFO  com.qa.Pages.BasePage - Entering Harish@123 to [[ChromeDriver: chrome on windows (a76226c004acd2f9d70e488feb403979)] -> xpath: //input[@placeholder='Password']]
+14:00:49.162 [TestNG-test-Test-1] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (a76226c004acd2f9d70e488feb403979)] -> xpath: //div[@class='ui fluid large blue submit button']]
+14:00:49.164 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:00:49.169 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:00:49.171 [TestNG-test-Test-1] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:00:49.171 [TestNG-test-Test-1] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:01:09.825 [TestNG-test-Test-2] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Got an account? Log in here']'
+14:01:09.826 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:01:09.827 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:01:09.859 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:01:09.861 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:01:10.044 [TestNG-test-Test-2] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:01:10.045 [TestNG-test-Test-2] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:01:10.933 [main] INFO  com.qa.Testcases.BaseTest - Flushing the results into Extent report
+14:17:50.774 [main] INFO  com.qa.Testcases.BaseTest - In Before Test and configuring Extent Report
+14:17:51.131 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+14:17:51.135 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+14:17:53.727 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+14:17:53.727 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:00.489 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+14:18:00.505 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:01.370 [main] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (21ccdd5f65c64058b0a66c82ddd736c3)] -> xpath: //input[@placeholder='Email']]
+14:18:01.496 [main] INFO  com.qa.Pages.BasePage - Entering abc to [[ChromeDriver: chrome on windows (21ccdd5f65c64058b0a66c82ddd736c3)] -> xpath: //input[@placeholder='Password']]
+14:18:01.607 [main] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (21ccdd5f65c64058b0a66c82ddd736c3)] -> xpath: //div[@class='ui fluid large blue submit button']]
+14:18:02.895 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:18:02.902 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:18:02.903 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:18:03.447 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+14:18:03.447 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+14:18:04.910 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+14:18:04.911 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:11.414 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+14:18:11.418 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:11.421 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:43.577 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+14:18:43.578 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:43.669 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:18:43.670 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:18:43.671 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:18:44.578 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+14:18:44.579 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+14:18:46.302 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+14:18:46.302 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:53.156 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+14:18:53.162 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:53.164 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:53.176 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:18:53.252 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:18:53.253 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:18:53.253 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:18:53.686 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+14:18:53.687 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+14:18:55.097 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+14:18:55.098 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:19:01.545 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+14:19:01.548 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:19:01.549 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:19:33.645 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Forgot your password?']'
+14:19:33.646 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:20:05.324 [main] INFO  com.qa.Pages.BasePage - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Got an account? Log in here']'
+14:20:05.325 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:20:05.326 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:20:05.371 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:20:05.374 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:20:05.597 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:20:05.597 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:20:06.625 [main] INFO  com.qa.Testcases.BaseTest - launching the browser for executing tests
+14:20:06.626 [main] INFO  com.qa.browser.DriverFactory - Driver object is null so creating webdriver object
+14:20:08.017 [main] INFO  com.qa.browser.DriverFactory - Set browser as chrome
+14:20:08.018 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:20:14.273 [main] INFO  com.qa.browser.DriverManager - Browser launched...!
+14:20:14.277 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:20:14.447 [main] INFO  com.qa.Pages.BasePage - Entering harishkr755@gmail.com to [[ChromeDriver: chrome on windows (1c48d947aaf9822499def3f7f26724c6)] -> xpath: //input[@placeholder='Email']]
+14:20:14.564 [main] INFO  com.qa.Pages.BasePage - Entering Harish@123 to [[ChromeDriver: chrome on windows (1c48d947aaf9822499def3f7f26724c6)] -> xpath: //input[@placeholder='Password']]
+14:20:14.651 [main] INFO  com.qa.Pages.BasePage - Clicked on the [[ChromeDriver: chrome on windows (1c48d947aaf9822499def3f7f26724c6)] -> xpath: //div[@class='ui fluid large blue submit button']]
+14:20:14.653 [main] INFO  com.qa.browser.DriverFactory - Set Webdriver
+14:20:14.658 [main] INFO  com.qa.Testcases.BaseTest - Successfully completed Test case, so analysing the result
+14:20:14.659 [main] INFO  com.qa.Testcases.BaseTest - Closing the browser instance
+14:20:14.659 [main] INFO  com.qa.browser.DriverFactory - Quiking the executing by killing web driver object
+14:20:15.031 [main] INFO  com.qa.Testcases.BaseTest - Flushing the results into Extent report
